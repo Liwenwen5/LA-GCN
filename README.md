@@ -1,6 +1,6 @@
 # Lexical Attention and Aspect-Oriented Graph Convolutional Networks for Aspect-Based Sentiment Analysis
 This repo contains the PyTorch implementaion for the paper Lexical Attention and Aspect-Oriented Graph Convolutional Networks for Aspect-Based Sentiment Analysis.
-* For any questions about the implementation, plaese email lww503@126.com.
+For any questions about the implementation, plaese email lww503@126.com.
 
 ## Requirements
 * Python 3.7.3
