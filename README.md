@@ -7,6 +7,7 @@ For any questions about the implementation, plaese email lww503@126.com.
 * Python 3.7.3
 * PyTorch 1.2.0
 * Transformers https://github.com/huggingface/transformers
+* Biaffine Parser https://demo.allennlp.org/dependency-parsing
 * CUDA 9.0
 
 ## Training
